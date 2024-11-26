@@ -23,16 +23,16 @@ function Contact() {
         <div className="contact-details-con">
           <div className='row'>
                <FaLinkedin className='contact-icons linkdin-icon'/>
-              <p className='contact-value'>https://www.linkedin.com/in/supriyaangalwar/</p>
+              <a target='_blank' href='ttps://www.linkedin.com/in/supriyaangalwar/' className='contact-value'>https://www.linkedin.com/in/supriyaangalwar/</a>
           </div>
           <div className='row'>
                 <FaTwitter className='contact-icons twitter-icon'/>
-               <p className='contact-value'>https://twitter.com/AngalwarSupriya</p>
+               <a  target='_blank' href='https://twitter.com/AngalwarSupriya' className='contact-value'>https://twitter.com/AngalwarSupriya</a>
            </div>
 
            <div className='row'>
               <FaGithub className='contact-icons github-icon'/>
-               <p className='contact-value'>https://github.com/angalwarsupriya/</p>
+               <a  target='_blank' href='https://github.com/angalwarsupriya/' className='contact-value'>https://github.com/angalwarsupriya/</a>
            </div>
 
            <div className='row'>
