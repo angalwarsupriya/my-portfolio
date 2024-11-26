@@ -41,6 +41,11 @@
     cursor: pointer;
     text-decoration: none;
 }
+.logo{
+    font-size: 30px;
+    font-family: Papyrus, fantasy;
+   
+}
 .menu-item::before{
     content: " ";
     width:2rem ;
@@ -102,9 +107,15 @@
     .contact-btn{
         display: none;
     }
+    .logo{
+        font-size: 16px;
+    }
 }
 @media  screen and (min-width:769px) {
    .nav-menu-btn{
     display: none;
+   }
+   .logo{
+    font-size: 23px;
    }
 }

@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <div className='nav-wrapper'>
        <div className='nav-container'>
-       <img src='https://res.cloudinary.com/dfb0groak/image/upload/v1721466423/music_9261274_ryma4r.png' alt='wesite-logo' className='logo'/>
+           <h4 className='logo'>Portfolio</h4>
             <ul className='ul-con'>
                 <li className='li'>
                     <a href='#hero-section' className='menu-item'>Home</a>

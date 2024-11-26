@@ -11,7 +11,7 @@
 }
 
 .hero-hea{
-    font-size: 40px;
+    font-size: 35px;
     margin-bottom: 10px;
     line-height: 60px;
 
@@ -189,7 +189,7 @@
         margin-top: 18%;
     }
     .span{
-        font-size: 35px;
+        font-size: 30px;
     }
     .hero-p{
         font-size: 19px;
@@ -233,21 +233,21 @@
 }
 @media screen and (min-width:768px) and (max-width:991px){
     .hero-hea{
-        font-size: 40px;
+        font-size: 30px;
         line-height:50px;
     }
     .span{
-        font-size: 90px;
+        font-size: 60px;
     }
     .hero-p{
-        line-height: 35px;
+        line-height: 27px;
         margin-bottom: 0px;
         font-family:bree serif;
         font-size: 20px;
     }
    
     .hero-img{
-        width:30vw;
+        width:35vw;
         height: 55vh;
     }
     .technology-img{
