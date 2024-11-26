@@ -6,6 +6,7 @@
     margin-bottom: 0px;
     margin: 20px;
     display: flex;  
+    transition: background-color 2s ease;
 }
     /*-----------------------------------*/
     
@@ -40,6 +41,7 @@
       box-sizing: content-box
    
    }
+   background-color: rgb(129, 162, 240);
 }
 .skill-type-logo{
     width: 70%;

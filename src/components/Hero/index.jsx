@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section id='hero-section' className='hero-bg-con'>
        <div className='hero-content-section'>
-        <h1 className='hero-hea'><span className='span'>I'm Supriya Angalwar</span> Frontend Devloper,  Designer Intrested in Bakend also</h1>
+        <h1 className='hero-hea'>  <span className='span'>I'm Supriya Angalwar</span>  Frontend Devloper,  Designer Intrested in Bakend also</h1>
         <p className='hero-p'>Passionate Frontend Developer! Transforming Idias Into Seamless and Vissuallys stunning WEb solutions.</p>
       </div>
       <div className='hero-img-section'>
